@@ -1,6 +1,6 @@
 # Hey 👋
 
-I'm a 17-year-old backend developer and student currently living in Poland.  
+I'm a 18-year-old backend developer and student currently living in Poland.  
 Originally born in Russia 🇷🇺, now building my future in Poland 🇵🇱.
 
 ## 👨‍💻 About Me
