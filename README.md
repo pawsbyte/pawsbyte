@@ -9,7 +9,6 @@ Originally born in Russia 🇷🇺, now building my future in Poland 🇵🇱.
 - 🐍 **Languages**: Python, Java, JavaScript
 - 🌍 **From**: Russia  
 - 🏠 **Living in**: Poland
-- 🐾 **Furry**
 - **FINX** Main
 - **And yes I'm playing Genshin Impact**
 
