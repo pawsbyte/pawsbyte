@@ -11,7 +11,7 @@ Originally born in Russia 🇷🇺, now building my future in Poland 🇵🇱.
 - 🏠 **Living in**: Poland
 - 🐾 **Furry**
 - **FINX** Main
-  **And yes I'm playing Genshin Impact**
+- **And yes I'm playing Genshin Impact**
 
 ## 🚀 Tech Stack
 
