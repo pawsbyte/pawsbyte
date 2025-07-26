@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hey 👋
 
 I'm a 17-year-old backend developer and student currently living in Poland.  
 Originally born in Russia 🇷🇺, now building my future in Poland 🇵🇱.
